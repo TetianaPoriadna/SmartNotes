@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" jdk="Android API 33, extension level 3 Platform" jdk_type="Android SDK">
+	<output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug"/>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/src/androidTest">
+		<testFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java"/>
+	</contentEntry>
+	<contentEntry url="file://$MODULE_DIR$/../../../app/src/androidTestDebug"/>
+	<module name="MyNotes.app.main" scope="TEST"/>
+	<lib name="Gradle: junit:junit:4.13.2" scope="TEST"/>
+	<lib name="Gradle: org.hamcrest:hamcrest-core:1.3" scope="TEST"/>
+	<lib name="Gradle: androidx.annotation:annotation:1.3.0" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.20" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains:annotations:13.0" scope="TEST"/>
+	<lib name="Gradle: com.google.code.findbugs:jsr305:2.0.2" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-common:2.5.1" scope="TEST"/>
+	<lib name="Gradle: com.google.guava:listenablefuture:1.0" scope="TEST"/>
+	<lib name="Gradle: androidx.concurrent:concurrent-futures:1.0.0" scope="TEST"/>
+	<lib name="Gradle: com.squareup:javawriter:2.1.1" scope="TEST"/>
+	<lib name="Gradle: javax.inject:javax.inject:1" scope="TEST"/>
+	<lib name="Gradle: org.hamcrest:hamcrest-library:1.3" scope="TEST"/>
+	<lib name="Gradle: org.hamcrest:hamcrest-integration:1.3" scope="TEST"/>
+	<lib name="Gradle: androidx.arch.core:core-common:2.1.0" scope="TEST"/>
+	<lib name="Gradle: androidx.collection:collection:1.1.0" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.20" scope="TEST"/>
+	<lib name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20" scope="TEST"/>
+	<lib name="Gradle: androidx.room:room-common:2.5.1" scope="TEST"/>
+	<lib name="Gradle: androidx.test.ext:junit:1.1.5@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test:core:1.5.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test:monitor:1.6.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test:annotation:1.0.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.annotation:annotation-experimental:1.3.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.tracing:tracing:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test.services:storage:1.4.2@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test.espresso:espresso-core:3.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test:runner:1.5.2@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.test.espresso:espresso-idling-resource:3.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.appcompat:appcompat:1.6.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.activity:activity:1.6.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.core:core:1.9.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.core:core-ktx:1.2.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.savedstate:savedstate:1.2.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.appcompat:appcompat-resources:1.6.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.customview:customview:1.1.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.fragment:fragment:1.3.6@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.loader:loader:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: com.google.android.material:material:1.8.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.cardview:cardview:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.constraintlayout:constraintlayout:2.1.4@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.print:print:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.transition:transition:1.2.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.room:room-runtime:2.5.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.sqlite:sqlite:2.3.1@aar" scope="TEST"/>
+	<lib name="Gradle: androidx.sqlite:sqlite-framework:2.3.1@aar" scope="TEST"/>
+	<levels>
+		<level name="Gradle: junit:junit:4.13.2" value="project"/>
+		<level name="Gradle: org.hamcrest:hamcrest-core:1.3" value="project"/>
+		<level name="Gradle: androidx.annotation:annotation:1.3.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.20" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20" value="project"/>
+		<level name="Gradle: org.jetbrains:annotations:13.0" value="project"/>
+		<level name="Gradle: com.google.code.findbugs:jsr305:2.0.2" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-common:2.5.1" value="project"/>
+		<level name="Gradle: com.google.guava:listenablefuture:1.0" value="project"/>
+		<level name="Gradle: androidx.concurrent:concurrent-futures:1.0.0" value="project"/>
+		<level name="Gradle: com.squareup:javawriter:2.1.1" value="project"/>
+		<level name="Gradle: javax.inject:javax.inject:1" value="project"/>
+		<level name="Gradle: org.hamcrest:hamcrest-library:1.3" value="project"/>
+		<level name="Gradle: org.hamcrest:hamcrest-integration:1.3" value="project"/>
+		<level name="Gradle: androidx.arch.core:core-common:2.1.0" value="project"/>
+		<level name="Gradle: androidx.collection:collection:1.1.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.20" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20" value="project"/>
+		<level name="Gradle: androidx.room:room-common:2.5.1" value="project"/>
+		<level name="Gradle: androidx.test.ext:junit:1.1.5@aar" value="project"/>
+		<level name="Gradle: androidx.test:core:1.5.0@aar" value="project"/>
+		<level name="Gradle: androidx.test:monitor:1.6.1@aar" value="project"/>
+		<level name="Gradle: androidx.test:annotation:1.0.1@aar" value="project"/>
+		<level name="Gradle: androidx.annotation:annotation-experimental:1.3.0@aar" value="project"/>
+		<level name="Gradle: androidx.tracing:tracing:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.test.services:storage:1.4.2@aar" value="project"/>
+		<level name="Gradle: androidx.test.espresso:espresso-core:3.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.test:runner:1.5.2@aar" value="project"/>
+		<level name="Gradle: androidx.test.espresso:espresso-idling-resource:3.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.appcompat:appcompat:1.6.1@aar" value="project"/>
+		<level name="Gradle: androidx.activity:activity:1.6.0@aar" value="project"/>
+		<level name="Gradle: androidx.core:core:1.9.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.core:core-ktx:1.2.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.savedstate:savedstate:1.2.0@aar" value="project"/>
+		<level name="Gradle: androidx.appcompat:appcompat-resources:1.6.1@aar" value="project"/>
+		<level name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" value="project"/>
+		<level name="Gradle: androidx.customview:customview:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.fragment:fragment:1.3.6@aar" value="project"/>
+		<level name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.loader:loader:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" value="project"/>
+		<level name="Gradle: com.google.android.material:material:1.8.0@aar" value="project"/>
+		<level name="Gradle: androidx.cardview:cardview:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.constraintlayout:constraintlayout:2.1.4@aar" value="project"/>
+		<level name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.print:print:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" value="project"/>
+		<level name="Gradle: androidx.transition:transition:1.2.0@aar" value="project"/>
+		<level name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" value="project"/>
+		<level name="Gradle: androidx.room:room-runtime:2.5.1@aar" value="project"/>
+		<level name="Gradle: androidx.sqlite:sqlite:2.3.1@aar" value="project"/>
+		<level name="Gradle: androidx.sqlite:sqlite-framework:2.3.1@aar" value="project"/>
+	</levels>
+</component>
